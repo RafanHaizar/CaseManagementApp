@@ -1,8 +1,7 @@
 # Case Management System
 
 [![Version - RTM 1.0.5](https://img.shields.io/badge/Version-RTM%201.0.5-FF0000)](https://)
-[![App Name - CaseManagementSystem](https://img.shields.io/badge/App_Name-CaseManagementSystem-00FFBC)](https://)
-[![Lines of Code - 6000+](https://img.shields.io/badge/Lines_of_Code-6000+-orange)](https://)
+[![App Name - CaseManagementSystem](https://img.shields.io/badge/App_Name-CaseManagementSystem-orange)](https://)
 [![License - MIT](https://img.shields.io/badge/License-MIT-blue)](https://raw.githubusercontent.com/RafanHaizar/CaseManagementApp/main/LICENSE)
 
 <hr>
