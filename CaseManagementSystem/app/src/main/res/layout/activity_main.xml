@@ -21,7 +21,8 @@
                 android:layout_height="140dp"
                 android:background="@drawable/background"
                 tools:layout_editor_absoluteX="0dp"
-                tools:layout_editor_absoluteY="0dp" />
+                tools:layout_editor_absoluteY="0dp"
+                tools:ignore="MissingConstraints" />
 
             <TextView
                 android:id="@+id/textView"
@@ -74,7 +75,7 @@
                             app:srcCompat="@drawable/baseline_add_48" />
 
                         <TextView
-                            android:id="@+id/textView11"
+                            android:id="@+id/textView11s"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
@@ -116,7 +117,7 @@
                             app:srcCompat="@drawable/baseline_format_list_numbered_48" />
 
                         <TextView
-                            android:id="@+id/textView11"
+                            android:id="@+id/textView11sdf"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
